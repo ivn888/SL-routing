@@ -42,5 +42,3 @@ scaricare OSM; tanto per citarne qualcuno:
 
 <img src='https://github.com/pigreco/SL-routing/blob/master/img/sub-region-italy.jpg' width=700>
 
-~~Comunque per l'esempio seguente abbiamo scaricato l'archivio OSM necessario da www.gfoss.it. Più precisamente,
-abbiamo scaricato l'archivio TOSCANA.osm.bz2.~~
