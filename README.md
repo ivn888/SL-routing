@@ -1,5 +1,5 @@
 # SpatiaLite routing
-[estratto dal CookBook italiano di Alessandro Furieri](http://www.gaia-gis.it/spatialite-3.0.0-BETA/SpatiaLite-Cookbook_ITA.pdf)
+[estratto dal CookBook italiano di Alessandro Furieri pp.129](http://www.gaia-gis.it/spatialite-3.0.0-BETA/SpatiaLite-Cookbook_ITA.pdf)
 
 SpatiaLite gestisce un modulo di “routing” denominato VirtualNetwork (rete virtuale). Lavorando su una
 rete arbitraria questo modulo consente di identificare le connessioni di percorso minimo (shortest path) con
