@@ -42,3 +42,6 @@ scaricare OSM; tanto per citarne qualcuno:
 
 <img src='https://github.com/pigreco/SL-routing/blob/master/img/sub-region-italy.jpg' width=700>
 
+----
+<img src='https://github.com/pigreco/SL-routing/blob/master/img/licenza.jpg'>
+
