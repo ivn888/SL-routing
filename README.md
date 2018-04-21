@@ -38,7 +38,7 @@ scaricare OSM; tanto per citarne qualcuno:
 * [http://www.openstreetmap.org/](https://www.openstreetmap.org)
 * [http://download.geofabrik.de/osm/](http://download.geofabrik.de/)
 * [http://downloads.cloudmade.com/](http://downloads.cloudmade.com/)
-* [Sub-region Italia](http://download.geofabrik.de/europe/italy.html)
+* [Sub-regions Italia](http://download.geofabrik.de/europe/italy.html)
 
 <img src='https://github.com/pigreco/SL-routing/blob/master/img/sub-region-italy.jpg' width=700>
 
