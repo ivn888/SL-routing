@@ -1,0 +1,1 @@
+spatialite_network -d nord-est.sqlite -T nord-est -f node_from -t node_to -g geometry --bidirectional -c cost --oneway-fromto oneway_fromto --oneway-tofrom oneway_tofrom --output-table nord-est_net_data --virtual-table nord-est_net
