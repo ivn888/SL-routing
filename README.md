@@ -40,7 +40,7 @@ scaricare OSM; tanto per citarne qualcuno:
 * [http://downloads.cloudmade.com/](http://downloads.cloudmade.com/)
 * [Sub-regions Italia](http://download.geofabrik.de/europe/italy.html)
 
-![grafo](/img/sub-region-italy.jpg 'osm')
+![grafo](/img/sub-region-italy.png "osm")
 
 ----
 ![grafo](/img/licenza.jpg)
