@@ -40,11 +40,14 @@ scaricare OSM; tanto per citarne qualcuno:
 * [http://downloads.cloudmade.com/](http://downloads.cloudmade.com/)
 * [Sub-regions Italia](http://download.geofabrik.de/europe/italy.html)
 
-<img src='https://github.com/pigreco/SL-routing/blob/master/img/sub-region-italy.jpg' width=700>
+![grafo](/img/sub-region-italy.jpg 'osm')
 
 ----
-<img src='https://github.com/pigreco/SL-routing/blob/master/img/licenza.jpg'>
+![grafo](/img/licenza.jpg)
 
 ----
-https://youtu.be/kZ5gC8B6vK4
+
+[![video youtube](https://img.youtube.com/vi/kZ5gC8B6vK4/0.jpg)](https://youtu.be/kZ5gC8B6vK4 "SpatiaLite e routing")
+
+
 
